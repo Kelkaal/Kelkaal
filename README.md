@@ -80,11 +80,11 @@ I work on real deployments with production environments where reliability matter
 
 
 ---
+## 🌍 Connect With Me
 
-## 🌍 Connect
-
-📧 Email:kelechikalu95@mail.com 
-🔗 LinkedIn:https://www.linkedin.com/in/kelechi-ok   
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelechi-okorie-56156a198/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kelechikalu95@gmail.com)
+[![X](https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Kelkalu)  
 
 ---
 
