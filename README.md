@@ -1,111 +1,94 @@
-# Hey, I’m Kelechi Kalu 👋  
-Cloud • DevOps • Automation • Infrastructure
+<!-- Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00A3FF&center=true&vCenter=true&width=600&lines=Cloud+%7C+DevOps+Engineer;Infrastructure+Automation;AWS+%7C+Terraform+%7C+Docker+%7C+Kubernetes;Deploying+Production+Systems" />
+</p>
 
-I build, deploy, secure, and automate modern infrastructure using **AWS**, **Terraform**, **Docker**, **CI/CD**, and **Linux**.  
-I enjoy making systems reliable, scalable, and production-ready — without the drama.
-
----
-
-## ⚡ What I Do
-
-- Design & deploy cloud infrastructure (AWS)
-- Automate deployments using Terraform, GitHub Actions & Bash
-- Containerize apps with Docker / Docker Compose
-- Manage Linux servers (Ubuntu)
-- Work with backend teams to ensure smooth CI/CD pipelines
-- Secure and monitor cloud workloads
-- Solve critical production issues calmly and fast
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kelkaal&style=flat-square&color=00A3FF" />
+</p>
 
 ---
 
-## 🛠️ Tools, Technologies & Skills (Fully Customized)
+# 👋 Hey, I’m Odeg
 
-### **☁️ Cloud**
-- **AWS**: EC2, VPC, Subnets, Security Groups, IAM, RDS, S3, Route53, NAT Gateways, CloudWatch, Load Balancers  
-- **GCP**: (Used in deploying banking app demos)
+Cloud & DevOps Engineer focused on deploying **secure, scalable, automated infrastructure** using:
 
----
+✅ AWS  
+✅ Terraform  
+✅ Docker & Kubernetes  
+✅ CI/CD (GitHub Actions)  
+✅ Linux & NGINX  
+✅ Infrastructure Automation
 
-### **⚙️ DevOps & Automation**
-- **Terraform** (modular infrastructure, VPCs, RDS, EC2, security groups, key-pairs, GitHub Actions runner setup)
-- **GitHub Actions** (CI/CD workflows for Node.js, Docker & infrastructure automation)
-- **Docker / Docker Compose** (production containers, secure images, multi-service stacks)
-- **Bash scripting** (automation, cloud setup, deployments)
-- **PM2** (process management for Node applications)
-- **NGINX** (reverse proxy, load balancing, domain configs)
+I work on real deployments with production environments where reliability matters.
 
 ---
 
-### **🐧 Operating Systems**
-- **Linux (Ubuntu)**: system setup, permissions, SSH, services, logs, networking  
-- Server hardening & troubleshooting
+## 🧰 Tools & Technologies I Use
+
+### 🚀 DevOps & Automation
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 ---
 
-### **🗂️ Databases & Storage**
-- **MySQL / MariaDB** (local + Docker deployments)  
-- **PostgreSQL**  
-- **Redis** (caching, sessions)  
-- **S3** (static assets, backups)
+### ☁️ Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white)
 
 ---
 
-### **💻 Programming & Scripting**
-- **Python** (beginner–intermediate)  
-- **Node.js / Express.js** (setup, deployment, debugging)
-
----
-
-### **🔐 Security**
-- IAM policies  
-- SSH key management  
-- Securing cloud workloads  
-- Deploying HIPAA-compliant environments  
+### 🔐 Security & Monitoring
+![IAM](https://img.shields.io/badge/AWS_IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 ---
 
 ## 🚀 Highlight Projects
 
-### **Banking App Deployment (AWS + GCP)**
-- Deployed end-to-end cloud infra  
-- CI/CD, Dockerized services, reverse proxy, secure networking  
-
-### **HIPAA-Compliant Healthcare App**
-- Secure cloud infrastructure  
-- Compliance-focused architecture  
-- Automated deployment pipelines  
-
-### **GitHub Actions Self-Hosted Runner on AWS**
-- Custom Docker-based runner  
-- Auto-registration, auto-start, workflow execution  
-- Managed via Terraform (modular)
-
-### **Dynamic Website Deployment**
-- Terraform + Docker + Bash automation  
-- DNS setup with Namecheap  
-- MySQL + WordPress containerization  
+✅ HIPAA-Compliant Healthcare Deployment  
+✅ Banking App Deployment (AWS + GCP)  
+✅ GitHub Actions Runner on AWS  
+✅ Dynamic Website Deployment (Terraform + Docker + Bash)
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kelkaal&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kelkaal&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Kelkaal&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kelkaal&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## 🌍 Let's Connect
+## 🌍 Connect
 
-- **Email:** *kelechikalu95@gmail.com*  
-- **LinkedIn:** *linkedin.com/in/kelechi-ok*  
-- **Portfolio:** *https://dev.to/shebang_f7a029a2700eb909c/how-to-build-your-own-vpc-architecture-using-linux-network-namespaces-39i0*
-
----
-
-## ⚡ Fun Side of Me
-- I enjoy solving infrastructure headaches before they become outages.  
-- I keep learning — one step at a time, always moving forward.  
-- I like clean automation and organized systems.  
+📧 Email:kelechikalu95@gmail.com 
+🔗 LinkedIn:https://www.linkedin.com/in/kelechi-ok 
 
 ---
 
-Thanks for checking out my profile — feel free to explore my pinned projects or reach out to collaborate.
+## ⚡ Mindset
+One step at a time — always moving forward.
