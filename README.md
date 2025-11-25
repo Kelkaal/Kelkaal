@@ -9,7 +9,7 @@
 
 ---
 
-# 👋 Hey, I’m Odeg
+# 👋 Hey, Kelechi Kalu
 
 Cloud & DevOps Engineer focused on deploying **secure, scalable, automated infrastructure** using:
 
