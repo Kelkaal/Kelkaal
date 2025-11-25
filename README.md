@@ -9,17 +9,7 @@
 
 ---
 
-# 👋 Hey, I am Kelechi Kalu
-
-````
-
-## 👨‍💻 About Me
-
-DevOps & Cloud Engineer with a focus on automation, security, and scalable infrastructure.
-
-I love turning manual deployments into fully automated pipelines using Terraform, Docker, and CI/CD. I've deployed real production systems including a banking app and a HIPAA-compliant platform, and I enjoy solving infrastructure problems that keep products online and fast.
-
-```
+# 👋 Hey, I’m Odeg
 
 Cloud & DevOps Engineer focused on deploying **secure, scalable, automated infrastructure** using:
 
@@ -88,12 +78,13 @@ I work on real deployments with production environments where reliability matter
   <img src="https://github-readme-streak-stats.demolab.com?user=Kelkaal&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
+
 ---
 
 ## 🌍 Connect
 
-📧 Email:kelechikalu95@gmail.com 
-🔗 LinkedIn:https://www.linkedin.com/in/kelechi-ok 
+📧 Email:  
+🔗 LinkedIn:  
 
 ---
 
