@@ -70,14 +70,13 @@ I work on real deployments with production environments where reliability matter
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kelkaal&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kelkaal&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kelkaal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kelkaal&layout=compact&langs_count=8&theme=tokyonight" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kelkaal&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-streak-stats.demolab.com?user=Kelkaal&theme=tokyonight&hide_border=true" height="170"/>
 </p>
-
 
 ---
 
