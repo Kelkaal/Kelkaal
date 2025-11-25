@@ -9,7 +9,7 @@
 
 ---
 
-# 👋 Hey, Kelechi Kalu
+# 👋 Hey, I am Kelechi Kalu
 
 Cloud & DevOps Engineer focused on deploying **secure, scalable, automated infrastructure** using:
 
