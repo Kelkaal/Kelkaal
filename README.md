@@ -9,7 +9,7 @@
 
 ---
 
-# 👋 Hey, I’m Odeg
+# 👋 Hey, I’m Kelechi kalu
 
 Cloud & DevOps Engineer focused on deploying **secure, scalable, automated infrastructure** using:
 
@@ -83,8 +83,8 @@ I work on real deployments with production environments where reliability matter
 
 ## 🌍 Connect
 
-📧 Email:  
-🔗 LinkedIn:  
+📧 Email:kelechikalu95@mail.com 
+🔗 LinkedIn:https://www.linkedin.com/in/kelechi-ok   
 
 ---
 
