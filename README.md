@@ -9,7 +9,7 @@
 
 ---
 
-# 👋 Hey, I’m Kelechi kalu
+# Hey, I’m Kelechi kalu
 
 Cloud & DevOps Engineer focused on deploying **secure, scalable, automated infrastructure** using:
 
@@ -26,7 +26,7 @@ I work on real deployments with production environments where reliability matter
 
 ## 🧰 Tools & Technologies I Use
 
-### 🚀 DevOps & Automation
+### DevOps & Automation
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -39,7 +39,7 @@ I work on real deployments with production environments where reliability matter
 
 ---
 
-### ☁️ Cloud & Infrastructure
+### Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -48,7 +48,7 @@ I work on real deployments with production environments where reliability matter
 
 ---
 
-### 🔐 Security & Monitoring
+### Security & Monitoring
 ![IAM](https://img.shields.io/badge/AWS_IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
@@ -58,7 +58,7 @@ I work on real deployments with production environments where reliability matter
 
 ---
 
-## 🚀 Projects I've Built
+##  Projects I've Built
 
 ### 🔹 Build Your Own Virtual Private Cloud (VPC) on Linux
 A fully custom VPC built from scratch using Linux networking:
@@ -91,7 +91,7 @@ Created a deployment automation script that:
 
 ---
 
-### ✅ Production Deployments
+###  Production Deployments
 
 - HIPAA-Compliant Healthcare Deployment  
 - Banking App Deployment (AWS + GCP)  
