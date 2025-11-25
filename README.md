@@ -58,12 +58,46 @@ I work on real deployments with production environments where reliability matter
 
 ---
 
-## 🚀 Highlight Projects
+## 🚀 Projects I've Built
 
-✅ HIPAA-Compliant Healthcare Deployment  
-✅ Banking App Deployment (AWS + GCP)  
-✅ GitHub Actions Runner on AWS  
-✅ Dynamic Website Deployment (Terraform + Docker + Bash)
+### 🔹 Build Your Own Virtual Private Cloud (VPC) on Linux
+A fully custom VPC built from scratch using Linux networking:
+- Network namespaces for isolation
+- Virtual routing
+- Custom subnets and gateways
+- Linux firewall rules
+- Hands-on understanding of how cloud VPCs work under the hood
+
+### 🔹 Observability & Alerts for Blue/Green Deployments
+Designed and implemented:
+- Log monitoring system (Log-Watcher)
+- Slack alert integration
+- Real-time failure notifications
+- Deployment health visibility
+
+### 🔹 Blue/Green Deployment with Nginx Upstreams
+Automated:
+- Upstream switching
+- Auto-failover routing
+- Manual toggle controls
+- Zero-downtime deployments
+
+### 🔹 Automated Deployment Bash Script
+Created a deployment automation script that:
+- Builds and deploys applications automatically
+- Configures servers
+- Updates services with minimal downtime
+- Removes repetitive manual tasks
+
+---
+
+### ✅ Production Deployments
+
+- HIPAA-Compliant Healthcare Deployment  
+- Banking App Deployment (AWS + GCP)  
+- GitHub Actions Runner on AWS  
+- Dynamic Website Deployment (Terraform + Docker + Bash)
+
 
 ---
 
