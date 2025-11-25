@@ -11,6 +11,12 @@
 
 # 👋 Hey, I am Kelechi Kalu
 
+## 👨‍💻 About Me
+
+DevOps & Cloud Engineer with a focus on automation, security, and scalable infrastructure.
+
+I love turning manual deployments into fully automated pipelines using Terraform, Docker, and CI/CD. I've deployed real production systems including a banking app and a HIPAA-compliant platform, and I enjoy solving infrastructure problems that keep products online and fast.
+
 Cloud & DevOps Engineer focused on deploying **secure, scalable, automated infrastructure** using:
 
 ✅ AWS  
